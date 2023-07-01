@@ -11,13 +11,13 @@ The repository has the following structure:
 ├── styles.css
 ├── script.js
 └── images/
-    └── main.js
-    └── main.js
-    └── main.js
+    └── bg.png
+    └── block.png
+    └── dino.png
   
 index.html: This is the main HTML file that displays the game.
 css/: This directory contains the CSS stylesheet (styles.css) used to style the game elements.
-js/: This directory holds the JavaScript file (main.js) that implements the game logic.
+js/: This directory holds the JavaScript file (script.js) that implements the game logic.
 
 ## Usage
 Once you open the game, the dino will start running automatically. To make the dino jump, simply click anywhere on the screen. The goal is to avoid the moving barrier by timing your jumps correctly.
