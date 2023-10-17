@@ -1,4 +1,5 @@
 # Dino Mini Game
+
 This repository contains a mini dino game implemented using HTML, CSS, and JavaScript. The game features a simple dino character represented using <div> elements, along with a moving barrier that the dino needs to avoid. The dino can jump by clicking on the screen.
 
 ## Getting Started
@@ -27,14 +28,9 @@ Feel free to explore the code in the styles.css and main.js files to understand 
 ## Contributing
 If you would like to contribute to this project, you can fork the repository and make any desired changes. Afterward, submit a pull request, and your changes will be reviewed.
 
-## License
-This project is licensed under the MIT License. You are free to use and modify the code as per the terms of the license.
-
 ## Acknowledgments
 The game design and implementation were inspired by various online resources and tutorials.
 Special thanks to the open-source community for providing valuable guidance and resources.
 
-## Contact
-If you have any questions, suggestions, or feedback regarding the game or this repository, please feel free to contact me at [email protected].
-
 #### Enjoy playing the Dino Game!
+Happy coding!
